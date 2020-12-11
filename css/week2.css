@@ -33,3 +33,20 @@
     font-weight: bold !important;
     color:  !important;
 }
+.h1{
+    font-style: oblique;
+    font-size: 69px;
+    text-align: center;
+    font-weight: bold;
+    background-color: chartreuse;
+    font-family: fantasy;
+}
+.em{
+    font-style: italic;
+    font-weight: 800;
+    color: crimson;
+}
+.tittle{
+    color: darkmagenta;
+    background-color: beige;
+}
