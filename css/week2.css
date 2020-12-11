@@ -1,0 +1,35 @@
+.panelbody{
+    padding:15px;
+    background-color: blue;
+    background: radius 15px;
+    width:400px;
+}
+.p{
+    color: rgb(255, 0, 13);
+    font-display: 1em .icon-circle{
+      width: 50px;
+      height: 50px;
+      border-radius: 50%;
+      text-align: center;
+      align-items: center;
+      justify-content: center;
+      display: flex;
+      background-color: 0000ff';
+      font-weight:bold;
+      text-align:center;
+      style=bac
+
+    }
+    
+}
+.rowPad{
+    padding:5px;
+}
+.inputCss{
+    font-size: 12pt !important;
+}
+.resultCss{
+    font-size: 15pt !important;
+    font-weight: bold !important;
+    color:  !important;
+}
