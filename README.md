@@ -13,9 +13,14 @@ ABOUT ME;
     RESIDENCE;kericho.
     
  #set up insructions.
+ ;1.git clone
+ ;2.navigate to clone
+ ;3.index.html
+ ;4.code
  
  
  #bdd.
+ ;;;entry of birthday dates.
  
  #technologies used;.
 This application was made with a bit of html,bootstrap and a bit of javascript. no complications on any upload.
