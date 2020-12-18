@@ -1,43 +1,44 @@
-<!doctype html>
-<html lang="en">
-
+<!DOCTYPE html>
+<html>
 <head>
     <title>birthday-calculator</title>
+    <link href="css/styles.css" rel="stylesheet" type="text/css">
+
+    <link href="js/script.js" rel="script"  type="text/js">
+
     <h1>calculating the <em>exact</em> day you were born</h1>
     <p>hello guys,welcome to my website.</p>
     <p>this is a form you fill to be able to get the date you were born.Many of us only know the dates,months and years but a few of us know the day.
         <br>Hope this will be helpful to you all</p>
-        <br>
-    <!-- Required meta tags -->
-    <meta charset="utf-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+    <link href="js/script.js" rel="script"  type="text/js">  
     <br>
-    
-
-    <!-- Bootstrap CSS -->
-    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css"
-        integrity="sha384-ggOyR0iXCbMQv3Xipma34MD+dH/1fQ784/j6cY/iJTQUOhcWr7x9JvoRxT2MZw1T" crossorigin="anonymous">
 </head>
-
-
-
-
-
-
 <body>
+    <form">
+        <label for="date">Date</label>
+        <input type="text" id="date" name="date">
+        <br>
     
+        <label for="month">Month</label>
+        <input type="text" id="month" name="month">
+        <br>
 
-    <!-- Optional JavaScript -->
-    <!-- jQuery first, then Popper.js, then Bootstrap JS -->
-    <script src="https://code.jquery.com/jquery-3.3.1.slim.min.js"
-        integrity="sha384-q8i/X+965DzO0rT7abK41JStQIAqVgRVzpbzo5smXKp4YfRvH+8abtTE1Pi6jizo"
-        crossorigin="anonymous"></script>
-    <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.7/umd/popper.min.js"
-        integrity="sha384-UO2eT0CpHqdSJQ6hJty5KVphtPhzWj9WO1clHTMGa3JDZwrnQq4sF86dIHNDz0W1"
-        crossorigin="anonymous"></script>
-    <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/js/bootstrap.min.js"
-        integrity="sha384-JjSmVgyd0p3pXB1rRibZUAYoIIy6OrQ6VrjIEaFf/nJGzIxFDsf4x0xIM+B07jRM"
-        crossorigin="anonymous"></script>
+        <label for="year">Year</label>
+        <input type="text" id="year" name="year">
+        <br>
+        
+        <label for="gender">Gender</label>
+        <input type="text" id="gender" name="gender">
+        <br>
+        
+        <input type="submit" onclick=calculateDay() value="submit">
+        <script src="js/script.js"></script>
+        <br>
+    
+    </form>
+    
+    <p>...</p>
+    <p>...</p>  
+
 </body>
-
 </html>
