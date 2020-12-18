@@ -12,6 +12,8 @@ What you do is insert your birtday date and year as insructed in the display and
 
 
 ABOUT ME;
+
+
     NAME;laura.
     
     OCCUPATION;student.
