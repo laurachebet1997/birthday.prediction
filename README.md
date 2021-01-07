@@ -43,7 +43,7 @@ What you do is insert your birtday date and year as insructed in the display and
 
 
 # live link
-        `http://127.0.0.1:5500/week2.project.html`
+        `https://laurachebet1997.github.io/birthday.prediction/
  
 
 # contact information;
