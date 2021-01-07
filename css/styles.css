@@ -6,5 +6,9 @@ h1{
     font-weight: bold;
 }
 p {
-    color: blue;
+    color: black;
+}
+.intro {
+    font-family: sans-serif;
+    color: #000;
 }
