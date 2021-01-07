@@ -1,0 +1,13 @@
+h1{
+    font-style: oblique;
+    font-size: 69px;
+    text-align: center;
+    font-weight: bold;
+}
+p {
+    color: black;
+}
+.intro {
+    font-family: sans-serif;
+    color: #000;
+}
